@@ -1,4 +1,8 @@
 # Application-Process-Listener
+
+[![Release](https://jitpack.io/v/CompileConnected/Application-Process-Listener.svg)]
+(https://jitpack.io/#CompileConnected/Application-Process-Listener)
+
 Simple Android Library to listen if application on Foreground or Background
 
 Add it in your root build.gradle at the end of repositories:
