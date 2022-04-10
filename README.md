@@ -1,7 +1,8 @@
 # Application-Process-Listener
 
-[![Release](https://jitpack.io/v/CompileConnected/Application-Process-Listener.svg)]
-(https://jitpack.io/#CompileConnected/Application-Process-Listener)
+[![GitHub license](https://img.shields.io/github/license/CompileConnected/Application-Process-Listener)](https://github.com/CompileConnected/Application-Process-Listener/blob/main/LICENSE)
+[![Release](https://jitpack.io/v/CompileConnected/Application-Process-Listener.svg)](https://jitpack.io/#CompileConnected/Application-Process-Listener)
+
 
 Simple Android Library to listen if application on Foreground or Background
 
