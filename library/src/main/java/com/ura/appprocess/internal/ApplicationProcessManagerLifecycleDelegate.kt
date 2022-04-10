@@ -1,11 +1,13 @@
 package com.ura.appprocess.internal
 
 import android.app.Activity
+import com.ura.appprocess.api.ApplicationLifeCycleDelegate
 import com.ura.appprocess.api.ApplicationProcessListener
 
 
 internal class ApplicationProcessManagerLifecycleDelegate(private val applicationProcessManager: ApplicationProcessManager) :
     ApplicationLifeCycleDelegate() {
+
     private var activityCount = 0
 
     private val isAppBackground: Boolean

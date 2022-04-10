@@ -1,10 +1,12 @@
-package com.ura.appprocess.internal
+package com.ura.appprocess.api
 
 import android.app.Activity
 import android.app.Application
 import android.os.Bundle
 
-internal abstract class ApplicationLifeCycleDelegate : Application.ActivityLifecycleCallbacks {
+abstract class ApplicationLifeCycleDelegate :
+    Application.ActivityLifecycleCallbacks {
+
     override fun onActivityCreated(activity: Activity, savedInstanceState: Bundle?) {
         return
     }
