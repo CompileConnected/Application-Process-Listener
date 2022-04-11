@@ -18,8 +18,8 @@ allprojects {
 
 Add the dependency
 ```groovy
-	dependencies {
-        implementation 'com.github.CompileConnected:Application-Process-Listener:1.0.0'
+    dependencies {
+        implementation 'com.github.CompileConnected:Application-Process-Listener:1.0.1'
     }
 ```
 
